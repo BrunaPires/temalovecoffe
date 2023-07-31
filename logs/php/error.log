@@ -1,0 +1,120 @@
+[31-Jul-2023 00:52:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[31-Jul-2023 02:10:27 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[31-Jul-2023 11:59:27 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\setup.php on line 306
+[31-Jul-2023 11:59:27 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\setup.php on line 306
+[31-Jul-2023 11:59:27 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\setup.php on line 306
+[31-Jul-2023 11:59:27 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\setup.php on line 306
+[31-Jul-2023 11:59:27 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\setup.php on line 306
+[31-Jul-2023 11:59:27 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\setup.php on line 306
+[31-Jul-2023 12:00:32 UTC] PHP Warning:  Undefined variable $pn_var_facebook in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:32 UTC] PHP Warning:  Undefined variable $pn_var_instagram in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:32 UTC] PHP Warning:  Undefined variable $pn_var_snapchat in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:32 UTC] PHP Warning:  Undefined variable $pn_var_pinterest in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:32 UTC] PHP Warning:  Undefined variable $pn_var_twitter in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:32 UTC] PHP Warning:  Undefined variable $pn_var_linkedin in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:32 UTC] PHP Warning:  Undefined variable $pn_var_youtube in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:32 UTC] PHP Warning:  Undefined variable $pn_var_googleplus in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:37 UTC] PHP Warning:  Undefined variable $pn_var_facebook in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:37 UTC] PHP Warning:  Undefined variable $pn_var_instagram in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:37 UTC] PHP Warning:  Undefined variable $pn_var_snapchat in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:37 UTC] PHP Warning:  Undefined variable $pn_var_pinterest in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:37 UTC] PHP Warning:  Undefined variable $pn_var_twitter in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:37 UTC] PHP Warning:  Undefined variable $pn_var_linkedin in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:37 UTC] PHP Warning:  Undefined variable $pn_var_youtube in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:37 UTC] PHP Warning:  Undefined variable $pn_var_googleplus in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:38 UTC] PHP Warning:  Undefined variable $pn_var_facebook in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:38 UTC] PHP Warning:  Undefined variable $pn_var_instagram in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:38 UTC] PHP Warning:  Undefined variable $pn_var_snapchat in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:38 UTC] PHP Warning:  Undefined variable $pn_var_pinterest in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:38 UTC] PHP Warning:  Undefined variable $pn_var_twitter in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:38 UTC] PHP Warning:  Undefined variable $pn_var_linkedin in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:38 UTC] PHP Warning:  Undefined variable $pn_var_youtube in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:00:38 UTC] PHP Warning:  Undefined variable $pn_var_googleplus in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-content\themes\perolanegra-master\include\shortcode\shortcode_redes_sociais.php on line 61
+[31-Jul-2023 12:07:36 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pn_after_setup" not found or invalid function name in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-config.php(103): require_once('C:\\Users\\Trabal...')
+#4 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-load.php(50): require_once('C:\\Users\\Trabal...')
+#5 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Trabal...')
+#6 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Trabal...')
+#7 {main}
+  thrown in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php on line 308
+[31-Jul-2023 12:07:36 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pn_after_setup" not found or invalid function name in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-config.php(103): require_once('C:\\Users\\Trabal...')
+#4 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-load.php(50): require_once('C:\\Users\\Trabal...')
+#5 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Trabal...')
+#6 C:\Users\Trabalho\Local Sites\tema2023\app\public\index.php(17): require('C:\\Users\\Trabal...')
+#7 {main}
+  thrown in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php on line 308
+[31-Jul-2023 12:08:34 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pn_after_setup" not found or invalid function name in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-config.php(103): require_once('C:\\Users\\Trabal...')
+#4 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-load.php(50): require_once('C:\\Users\\Trabal...')
+#5 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Trabal...')
+#6 C:\Users\Trabalho\Local Sites\tema2023\app\public\index.php(17): require('C:\\Users\\Trabal...')
+#7 {main}
+  thrown in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php on line 308
+[31-Jul-2023 12:08:35 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pn_after_setup" not found or invalid function name in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-config.php(103): require_once('C:\\Users\\Trabal...')
+#4 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-load.php(50): require_once('C:\\Users\\Trabal...')
+#5 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Trabal...')
+#6 C:\Users\Trabalho\Local Sites\tema2023\app\public\index.php(17): require('C:\\Users\\Trabal...')
+#7 {main}
+  thrown in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php on line 308
+[31-Jul-2023 12:08:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pn_after_setup" not found or invalid function name in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-config.php(103): require_once('C:\\Users\\Trabal...')
+#4 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-load.php(50): require_once('C:\\Users\\Trabal...')
+#5 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Trabal...')
+#6 C:\Users\Trabalho\Local Sites\tema2023\app\public\index.php(17): require('C:\\Users\\Trabal...')
+#7 {main}
+  thrown in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php on line 308
+[31-Jul-2023 12:08:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pn_after_setup" not found or invalid function name in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-config.php(103): require_once('C:\\Users\\Trabal...')
+#4 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-load.php(50): require_once('C:\\Users\\Trabal...')
+#5 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Trabal...')
+#6 C:\Users\Trabalho\Local Sites\tema2023\app\public\index.php(17): require('C:\\Users\\Trabal...')
+#7 {main}
+  thrown in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php on line 308
+[31-Jul-2023 12:08:57 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pn_after_setup" not found or invalid function name in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-config.php(103): require_once('C:\\Users\\Trabal...')
+#4 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-load.php(50): require_once('C:\\Users\\Trabal...')
+#5 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Trabal...')
+#6 C:\Users\Trabalho\Local Sites\tema2023\app\public\index.php(17): require('C:\\Users\\Trabal...')
+#7 {main}
+  thrown in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php on line 308
+[31-Jul-2023 12:08:57 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pn_after_setup" not found or invalid function name in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-config.php(103): require_once('C:\\Users\\Trabal...')
+#4 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-load.php(50): require_once('C:\\Users\\Trabal...')
+#5 C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Trabal...')
+#6 C:\Users\Trabalho\Local Sites\tema2023\app\public\index.php(17): require('C:\\Users\\Trabal...')
+#7 {main}
+  thrown in C:\Users\Trabalho\Local Sites\tema2023\app\public\wp-includes\class-wp-hook.php on line 308

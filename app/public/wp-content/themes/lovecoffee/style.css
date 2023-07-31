@@ -1,0 +1,139 @@
+/* 
+Theme Name: Tema Love Coffee
+Theme URI: 
+Author: Bruna Pires
+Author URI: https://www.linkedin.com/in/bruna-pires-289877145/ 
+Description: Tema realizado para testes Wordpress
+Version: 1.0
+
+*/
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a {
+    color: #DED5B6;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a:hover{
+    opacity: 0.7;;
+}
+
+
+.main-menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background:#14303B;
+    height: 90px;
+    width: auto;
+}
+
+
+.menu {
+    list-style: none;
+    display: flex;
+}
+
+.menu li {
+    letter-spacing: 3px;
+    margin-left: 12px;
+    padding: 15px;
+}
+
+
+
+
+/* página */
+
+.home {
+    padding: 50px;
+}
+
+.home-p {
+    background-color: rgba(106, 82,82,.8);
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+    font-size: 25px;
+    text-align: justify;
+    color: #DBD5B6;
+    padding: 20px;
+    text-indent: 30px;
+}
+
+.home-h1 {
+    font-size: 45px;
+    color: #DED5B6;
+    text-shadow: 5px 3px 2px #14303b;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+
+/* Cardapio*/
+
+.cardapio {
+    padding: 5px;
+}
+
+.cardapio-h1 {
+    font-size: 45px;
+    color: #DED5B6;
+    text-shadow: 5px 3px 2px #14303b;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+
+.wp-image-22, .wp-image-24, .wp-image-25, .wp-image-26  {
+    border-radius: 30px;
+  }
+
+/* Contato*/
+.contato-banner {
+    padding: 30px 0px;
+}
+
+.contato-h1 {
+    font-size: 32px;
+    color: #FFFFCD;
+    text-shadow: 5px 3px 2px #14303b;
+    text-align: center;
+}
+
+.contatop {
+    font-size: 20px;
+    text-align: center;
+    color: #DED5B6;
+    padding: 20px 0px;
+}
+
+
+/* Footer*/
+
+footer {
+    font-size: 15px;
+    text-align: center;
+    color: #14303B;
+
+    max-width: auto;
+    position: relative;
+    display: block;
+    height: auto;
+    background-color:rgba(106, 82,82); 
+    padding: 15px;
+}
+
+.rodape > a {
+    color: #DED5B6;
+    text-decoration: none;
+    font-size: 14px;  
+}
